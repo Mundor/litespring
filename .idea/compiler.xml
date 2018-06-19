@@ -9,5 +9,9 @@
         <module name="mylitespring" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="litespring" target="1.5" />
+      <module name="mylitespring" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
