@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75254722-0cdc-4305-bddd-9b503f0cbd51" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mylitespring/mylitespring.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mylitespring/target/classes/com/nimingge/litespring/beans/BeanDefinition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mylitespring/target/classes/com/nimingge/litespring/beans/BeansException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mylitespring/target/classes/com/nimingge/litespring/beans/factory/BeanCreationException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mylitespring/target/classes/com/nimingge/litespring/beans/factory/BeanDefinitionStoreException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mylitespring/target/classes/com/nimingge/litespring/beans/factory/BeanFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mylitespring/target/classes/com/nimingge/litespring/beans/factory/support/DefaultBeanFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mylitespring/target/classes/com/nimingge/litespring/beans/factory/support/GenericBeanDefinition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mylitespring/target/classes/com/nimingge/litespring/service/PetStoreService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mylitespring/target/classes/com/nimingge/litespring/utils/ClassUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mylitespring/target/test-classes/com/nimingge/litespring/test/BeanFactoryTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/litespring.iml" afterPath="$PROJECT_DIR$/litespring.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -248,20 +228,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="litespring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="litespring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -803,8 +769,16 @@
       <workItem from="1528893626610" duration="12291000" />
       <workItem from="1528907249788" duration="386000" />
       <workItem from="1529382424552" duration="555000" />
-      <workItem from="1529387862105" duration="480000" />
+      <workItem from="1529387862105" duration="620000" />
     </task>
+    <task id="LOCAL-00001" summary="增加配置信息">
+      <created>1529388382962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529388382962</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -840,7 +814,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13712000" />
+    <option name="totallyTimeSpent" value="13852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -881,6 +855,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加配置信息" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加配置信息" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
